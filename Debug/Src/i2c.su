@@ -1,0 +1,6 @@
+i2c.c:13:6:I2C1_Init	8	static
+i2c.c:46:6:HAL_I2C_MspInit	40	static
+i2c.c:76:6:HAL_I2C_MspDeInit	16	static
+i2c.c:100:19:I2C_ReadBytes_NoReg	40	static
+i2c.c:109:19:I2C_WriteBytes_NoReg	40	static
+i2c.c:118:19:I2C_WriteBytes	56	static

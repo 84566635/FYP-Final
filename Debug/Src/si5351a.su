@@ -1,0 +1,3 @@
+si5351a.c:50:6:Read_Si5351A	32	static
+si5351a.c:69:6:Write_Si5351A	32	static
+si5351a.c:82:23:Si5351A_Init	16	static
